@@ -60,7 +60,7 @@ public class RobotColorChooser {
 		r2d2.turn(90);
 		r2d2.move(200);
 		r2d2.turn(135);
-		r2d2.move(200);
+		r2d2.move(290);
 		r2d2.sparkle();
 	}
 
